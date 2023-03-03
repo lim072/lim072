@@ -1,0 +1,5 @@
+body {background-color: rgb(148, 221, 170);}
+.mal {color: blue;}
+header h2{text-align: center;display: inline-block;}
+header{text-align: center;vertical-align: middle;}
+header h2:hover {width: 500px;}
